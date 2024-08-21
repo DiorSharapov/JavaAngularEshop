@@ -1,4 +1,4 @@
-package com.dior.shopping_api;
+package main.java.com.dior.shopping_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
